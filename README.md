@@ -6,7 +6,7 @@ Welcome to the Frida Scripts Repository! This repository is dedicated to storing
 
 ## Script List
 ### 1. Activity_logger.js
-The script is a Frida script for logging and printing information about activity lifecycle events and intents in Android applications. It intercepts and displays details like activity class name, action, data, component, categories, flags, and extras to better understand the flow and data being passed during activity launches and creations.
+The script is for logging and printing information about activity lifecycle events and intents in Android applications. It intercepts and displays details like activity class name, action, data, component, categories, flags, and extras to better understand the flow and data being passed during activity launches and creations.
 ```yaml
 > frida -U -n APP --no-pause -l Activity_logger.js
 Activity logger successfully attached.
