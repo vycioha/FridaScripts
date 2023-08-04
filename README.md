@@ -2,7 +2,7 @@
 
 <img src="https://frida.re/img/logotype.svg" width="200" alt="Frida Logo">
 
-Welcome to the Frida Scripts Repository! This repository is dedicated to storing and sharing custom scripts developed for use with [Frida](https://frida.re/).
+This repository is dedicated to storing and sharing custom scripts developed for use with [Frida](https://frida.re/).
 
 ## Script List
 ### 1. Activity_logger.js
